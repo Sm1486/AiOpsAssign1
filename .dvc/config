@@ -1,0 +1,4 @@
+[core]
+    remote = ssh-remote
+['remote "ssh-remote"']
+    url = ssh://10.0.2.15/home/vboxuser/dvc_storage
